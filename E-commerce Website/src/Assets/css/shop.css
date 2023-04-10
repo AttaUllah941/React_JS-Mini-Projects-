@@ -1,0 +1,12 @@
+.cards
+{
+    width: 78%;
+    height: 65vh;
+    color: white;
+    background-color:#161616;
+    text-align: center;
+    margin: 7px;
+    padding-top: 6px;
+    filter: brightness(1.1);
+    }
+ 

@@ -1,0 +1,48 @@
+.loginsection
+{
+    background-image: url('https://wallpaperaccess.com/full/2314983.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: 9.5;
+    height: 100vh;
+}
+.form
+{
+    width: 30%;
+    height: 60vh;
+    background-color: aquamarine;
+    text-align: start;
+    margin-left: 30%;
+    margin-top: 5%;
+    
+
+}
+.login_form h1
+{  
+    padding-top: 8%;
+    text-align: center;
+    font-size:x-large;
+}
+.login_form label
+{
+    margin-left: 12%;
+    text-decoration: solid;
+    font-size: larger;
+   
+   
+}
+.login_form input
+{
+    margin-left: 12%;
+   padding: 5px 10px;
+    height: 25px;
+    margin-top: 3%;
+    }
+
+#btn
+{
+    width: 47%;
+    height: 30px;
+    margin-left: 12%;
+    background-color: rgb(6, 99, 240);
+}
